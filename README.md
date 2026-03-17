@@ -1,5 +1,8 @@
 # qimen-web
 奇门遁甲排盘，可在Codespaces里直接使用。
+打开Codespaces后，在终端输入
+
+./start.sh
 
 排盘之时，心中所想所求之事，虔诚提问。
 
