@@ -12,7 +12,7 @@ app = Flask(__name__)
 # --- 配置区域 ---
 # ==========================================
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
-DEEPSEEK_API_KEY = "sk-8a9ff49b65bf4318bc9e8bdcb01a8491"  # 请替换为您申请的 Key
+DEEPSEEK_API_KEY = ""  # 请替换为您申请的 Key
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 DB_NAME = os.path.join(BASE_DIR, 'qimen.db')
