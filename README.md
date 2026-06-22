@@ -13,7 +13,8 @@
 
 A modern web application for generating and interpreting Qimen Dunjia charts.
 
-![Uploading image.png…]()
+
+<img width="2864" height="1468" alt="首页截图" src="https://github.com/user-attachments/assets/7e818e5b-810d-4782-8beb-c17d57908e1e" />
 
 
 ## Features
