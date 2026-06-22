@@ -38,24 +38,70 @@ HTML/CSS
 JavaScript
 LunarPython
 
-## Architecture
-
-(图)
-
 ## Screenshots
 
 <img width="2864" height="1468" alt="首页截图" src="https://github.com/user-attachments/assets/d8c06672-b897-4cc9-8a64-33e3b02b69fe" />
 <img width="1387" height="1465" alt="jiedu" src="https://github.com/user-attachments/assets/40e0cbf0-e588-46ca-acbd-8a4cba644dbe" />
 
 
+## 🚀 Getting Started
 
-## Installation
+### 1. Clone the repository
 
-git clone ...
+```bash
+git clone https://github.com/frank158x/qimen-web.git
+cd qimen-web
+```
 
-pip install ...
+### 2. Create a virtual environment (Recommended)
 
+```bash
+python -m venv venv
+```
+
+Windows
+
+```bash
+venv\Scripts\activate
+```
+
+Linux / macOS
+
+```bash
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure AI API (Optional)
+
+The project supports AI-assisted chart interpretation.
+
+Create a `.env` file (or update the configuration file) and add your API credentials:
+
+```text
+API_KEY=your_api_key
+BASE_URL=your_api_endpoint
+MODEL=your_model_name
+```
+
+> **Note:** The core Qimen Dunjia chart generation works independently. AI is only used for natural language interpretation.
+
+### 5. Start the application
+
+```bash
 python app.py
+```
+
+Open your browser and visit:
+
+```
+http://127.0.0.1:5000
+```
 
 ## Roadmap
 
