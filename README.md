@@ -70,4 +70,3 @@ python app.py
 
 □ Mobile adaptation
 
-□ English interface
