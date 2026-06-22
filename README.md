@@ -9,3 +9,64 @@
 一事不再占。
 连两次占，影响大吗？
 对你未来的实际盈利缘分没有任何影响，但对你接下来的判断力有影响。
+
+
+A modern web application for generating and interpreting Qimen Dunjia charts.
+
+![Uploading image.png…]()
+
+
+## Features
+
+✔ Qimen chart generation
+
+✔ Solar/Lunar calendar conversion
+
+✔ Astronomical time correction
+
+✔ Historical records
+
+✔ AI-assisted interpretation
+
+## Tech Stack
+
+Python
+Flask
+SQLite
+HTML/CSS
+JavaScript
+LunarPython
+
+## Architecture
+
+(图)
+
+## Screenshots
+
+(图1)
+
+(图2)
+
+(图3)
+
+## Installation
+
+git clone ...
+
+pip install ...
+
+python app.py
+
+## Roadmap
+
+□ User API configuration
+
+□ Multi-model support
+
+□ Better UI
+
+□ Docker
+
+□ Mobile adaptation
+
+□ English interface
