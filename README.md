@@ -44,11 +44,10 @@ LunarPython
 
 ## Screenshots
 
-(图1)
+<img width="2864" height="1468" alt="首页截图" src="https://github.com/user-attachments/assets/d8c06672-b897-4cc9-8a64-33e3b02b69fe" />
+<img width="1387" height="1465" alt="jiedu" src="https://github.com/user-attachments/assets/40e0cbf0-e588-46ca-acbd-8a4cba644dbe" />
 
-(图2)
 
-(图3)
 
 ## Installation
 
